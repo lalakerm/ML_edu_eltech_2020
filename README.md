@@ -8,7 +8,7 @@ Practical and laboratory exercises on Machine Learning discipline (fall, 2020)
 04_Seaborn.ipynb - &#9989; <br>
 11_Regression.ipynb - &#9989; <br>
 12L_Regression.ipynb - &#9989; <br>
-21_Classification.ipynb - &#9723; <br>
+21_Classification.ipynb - &#9989; <br>
 22_Classification.ipynb - &#9723; <br>
 23L_Classification.ipynb - &#9723; <br>
 31_RandomForest.ipynb - &#9723; <br>
