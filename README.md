@@ -10,12 +10,6 @@ Practical and laboratory exercises on Machine Learning discipline (fall, 2020)
 12L_Regression.ipynb - &#9989; <br>
 21_Classification.ipynb - &#9989; <br>
 22_Classification.ipynb - &#9989; <br>
-23L_Classification.ipynb - &#9723; <br>
+23L_Classification.ipynb - &#9989; <br>
 31_RandomForest.ipynb - &#9723; <br>
-32L_RandomForest.ipynb - &#9723; <br>
-41_GradientBoosting.ipynb - &#9723; <br>
-42L_GradientBoosting.ipynb - &#9723; <br>
-51L_NB_Text.ipynb - &#9723; <br>
-61_NeuralNetworks.ipynb - &#9723; <br>
-62_CNN.ipynb - &#9723; <br>
-63L_CNN.ipynb - &#9723; <br>
+32L_RandomForest.ipynb - &#9989; <br>
