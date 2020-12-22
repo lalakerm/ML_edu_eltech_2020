@@ -11,5 +11,5 @@ Practical and laboratory exercises on Machine Learning discipline (fall, 2020)
 21_Classification.ipynb - &#9989; <br>
 22_Classification.ipynb - &#9989; <br>
 23L_Classification.ipynb - &#9989; <br>
-31_RandomForest.ipynb - &#9723; <br>
+31_RandomForest.ipynb - &#10060; <br>
 32L_RandomForest.ipynb - &#9989; <br>
